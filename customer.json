@@ -1,0 +1,62 @@
+[
+  {
+    "customer_id": 1,
+    "first_name": "Rahul",
+    "last_name": "Sharma",
+    "email": "rahul.sharma@gmail.com",
+    "phone_number": "9876543210",
+    "city": "Bangalore",
+    "registration_date": "2023-12-15",
+    "booking_id": 101
+  },
+  {
+    "customer_id": 2,
+    "first_name": "Anita",
+    "last_name": "Verma",
+    "email": "anita.verma@gmail.com",
+    "phone_number": "9876543211",
+    "city": "Hyderabad",
+    "registration_date": "2023-12-18",
+    "booking_id": 102
+  },
+  {
+    "customer_id": 3,
+    "first_name": "Suresh",
+    "last_name": "Kumar",
+    "email": "suresh.kumar@gmail.com",
+    "phone_number": "9876543212",
+    "city": "Chennai",
+    "registration_date": "2023-12-20",
+    "booking_id": 103
+  },
+  {
+    "customer_id": 4,
+    "first_name": "Neha",
+    "last_name": "Singh",
+    "email": "neha.singh@gmail.com",
+    "phone_number": "9876543213",
+    "city": "Pune",
+    "registration_date": "2023-12-22",
+    "booking_id": 104
+  },
+  {
+    "customer_id": 5,
+    "first_name": "Amit",
+    "last_name": "Patel",
+    "email": "amit.patel@gmail.com",
+    "phone_number": "9876543214",
+    "city": "Ahmedabad",
+    "registration_date": "2023-12-25",
+    "booking_id": 105
+  },
+  {
+    "customer_id": 6,
+    "first_name": "Priya",
+    "last_name": "Iyer",
+    "email": "priya.iyer@gmail.com",
+    "phone_number": "9876543215",
+    "city": "Coimbatore",
+    "registration_date": "2023-12-28",
+    "booking_id": 106
+  }
+]
